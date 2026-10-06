@@ -1,4 +1,4 @@
-# ⚙︎ Nɛuro-Forge Engine™ : ATLAS-786
+# ⚙︎ Nɛuro-Forge Engine : ATLAS-786
 ### **[ DrMarchands.com ] // The Foundation of Infinite OS™**
 ## 📊 ATLAS CORE METADATA
 | Field | Data | Status |
